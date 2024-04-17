@@ -1,11 +1,11 @@
-package com.example.springcloudexam
+package com.example.config.client
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class SpringCloudExamApplication
+class ConfigClientApplication
 
 fun main(args: Array<String>) {
-    runApplication<SpringCloudExamApplication>(*args)
+    runApplication<ConfigClientApplication>(*args)
 }

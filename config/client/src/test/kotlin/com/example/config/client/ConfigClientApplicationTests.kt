@@ -1,10 +1,10 @@
-package com.example.springcloudexam
+package com.example.config.client
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
 
 @SpringBootTest
-class SpringCloudExamApplicationTests {
+class ConfigClientApplicationTests {
 
     @Test
     fun contextLoads() {

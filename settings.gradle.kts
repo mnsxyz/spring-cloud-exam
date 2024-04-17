@@ -1,2 +1,2 @@
 rootProject.name = "SpringCloudExam"
-include("config")
+include("config", "config:server", "config:client")
